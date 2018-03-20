@@ -36,8 +36,8 @@ selected lines.
 
 ### Mappings
 
-- `o` or `<cr>` on a commit to display the content of it
-- `o` or `<cr>` on commits to display the diff in the range
+- `o` or `<cr>` on a commit to display its contents
+- `o` or `<cr>` on a visual selection of commits to display their diff
 - `O` opens a new tab instead
 - `gb` for `:Gbrowse`
 - `]]` and `[[` to move between commits
